@@ -1,6 +1,6 @@
 {
   "name": "echart-wx",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "echarts for mini program",
   "main": "echart-wx.js",
   "scripts": {
