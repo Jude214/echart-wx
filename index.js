@@ -1,0 +1,1 @@
+"use strict";const echarts=require("./lib/echarts-min");module.exports=echarts;
