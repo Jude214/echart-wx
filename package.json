@@ -1,0 +1,31 @@
+{
+  "name": "echart-wx",
+  "version": "0.2.0",
+  "description": "echarts for mini program",
+  "main": "echart-wx.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "types": "echart-wx.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jude214/echart-wx.git"
+  },
+  "keywords": [
+    "echarts",
+    "miniprogram"
+  ],
+  "author": "Jude",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jude214/echart-wx/issues"
+  },
+  "homepage": "https://github.com/Jude214/echart-wx#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.18",
+    "rollup-plugin-uglify": "^6.0.4"
+  },
+  "dependencies": {
+    "@types/echarts": "^4.9.13"
+  }
+}
